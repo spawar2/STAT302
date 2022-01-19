@@ -1,0 +1,8 @@
+# Author: Pawar; Date: Jan 19 2022; Purpose: Install R packages
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("dplyr")
+if(!require(devtools)) install.packages("devtools") devtools::install_github("kassambara/ggpubr")
+
+
+
