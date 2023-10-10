@@ -1,4 +1,4 @@
-# STAT302
+[# STAT302](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-1)
 
 Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
 
