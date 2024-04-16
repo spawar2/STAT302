@@ -21,4 +21,4 @@ https://github.com/spawar2/STAT302/blob/main/April-4.Rd
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT342 (3 credit) Spring 2023 (25 students)
+STAT342 (3 credit) Spring 2023 (25 students) **Undergraduate Class & Lab
