@@ -1,7 +1,7 @@
 Learning Objectives [# STAT302 3 Credits Probability & Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-1).
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.), visualization: heat maps, volcano plots, pie charts.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV).
-[R: ggpubr, tidyverse, datarium, dplyr]
+[R: ggpubr, tidyverse, datarium, dplyr].
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 
