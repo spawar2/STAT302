@@ -30,4 +30,4 @@ Feb 21.Rd, Feb-14.Rd, Feb-2.Rd, Jan 26.Rd, Jan-31.Rd: Heatmaps in R.
 Feb 7.Rd, Feb 9.Rd: Correlation test analysis and scatter plotting.
 Mar_2.Rd, March-30.Rd: Volcano plot, Normal distribution.
 Mar-7.Rd, Mar-9.Rd: Simple linear regression analysis.
-selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot)
+selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot).
