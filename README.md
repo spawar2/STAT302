@@ -4,6 +4,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
+![download](https://github.com/user-attachments/assets/750826db-cf38-4697-bfbb-36826e570e04)
 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 https://github.com/spawar2/Data-Science-Fall2022/blob/main/Sep23.R
