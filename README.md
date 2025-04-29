@@ -1,4 +1,4 @@
-Learning Objectives [# STAT302 3 Credits, Probability & Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-1). Date created/updated: December, 9, 2024.
+Learning Objectives [# STAT 302 3 Credits, Probability & Statistics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341-1). Date created/updated: December, 9, 2024.
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.), visualization: heat maps, volcano plots, pie charts. Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA), data wrangling, Post Hoc Test. United States of America (USA). Data wrangling and handling.
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV).
 [R: ggpubr, tidyverse, datarium, dplyr].
@@ -22,7 +22,7 @@ https://github.com/spawar2/STAT302/blob/main/April-4.Rd
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT342 (3 credit) Spring 2023 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+STAT 342 (3 credit) Spring 2023 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 
